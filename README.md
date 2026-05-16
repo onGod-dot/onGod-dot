@@ -52,16 +52,11 @@ Head over to **TardyDevs** to view some of our live projects and products:
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 
 ---
-
-## 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onGod-dot&layout=compact&theme=tokyonight)
-
----
-
 ## 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/onGod-dot/onGod-dot/output/dist/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/onGod-dot/onGod-dot/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
 ---
 
