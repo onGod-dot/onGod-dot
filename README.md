@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Cyril%20Jerry%20Baah&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Cyril%20Jerry%20Baah&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Systems+and+Network+Engineer;Building+Elite+Projects;Founder+of+TardyDevs" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Systems+and+Network+Engineer;Building+scalable+software+solutions" alt="Typing" />
 </p>
 
 # Hello World!, I'm Cyril Jerry Baah 👋
@@ -61,7 +61,7 @@ Head over to **TardyDevs** to view some of our live projects and products:
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/onGod-dot/onGod-dot/blob/output/github-contribution-grid-snake.svg
+![snake gif](https://raw.githubusercontent.com/onGod-dot/onGod-dot/output/dist/github-contribution-grid-snake.svg)
 
 ---
 
