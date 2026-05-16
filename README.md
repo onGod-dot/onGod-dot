@@ -61,7 +61,7 @@ Head over to **TardyDevs** to view some of our live projects and products:
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/onGod-dot/onGod-dot/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/onGod-dot/onGod-dot/blob/output/github-contribution-grid-snake.svg
 
 ---
 
