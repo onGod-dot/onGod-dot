@@ -53,18 +53,6 @@ Head over to **TardyDevs** to view some of our live projects and products:
 
 ---
 
-## 📊 GitHub Stats
-
-![Cyril's GitHub stats](https://github-readme-stats.vercel.app/api?username=onGod-dot&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=onGod-dot&theme=tokyonight)
-
----
-
 ## 📈 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onGod-dot&layout=compact&theme=tokyonight)
